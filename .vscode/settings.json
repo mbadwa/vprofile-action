@@ -3,6 +3,7 @@
         "Checkstyle",
         "Dsonar",
         "Qube",
+        "appleboy",
         "distribution",
         "jacoco",
         "sonarqube",
